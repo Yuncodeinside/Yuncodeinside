@@ -71,4 +71,7 @@ Here are some ideas to get you started:
     &nbsp;
 </div>
 
+&nbsp;
+&nbsp;
+
 ![footer](https://capsule-render.vercel.app/api?section=footer)
