@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px;">
     <br/>
     <br/>
-    
+    &nbsp;
 </div>
 
 
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
     <br/>
     <br/>
+    &nbsp;
 </div>
 
 ### Framework & Library 
@@ -54,6 +55,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=black" />
     <br/>
     <br/>
+    &nbsp;
 </div>
 
 ### DevOps
@@ -65,4 +67,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
     <br/>
     <br/>
+    &nbsp;
 </div>
