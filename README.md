@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuncodeside&show_icons=true&theme=radical)
+![Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuncodeinside&show_icons=true&theme=radical)
 
 ### Language
 <div style="display: flex; justify-content: center;">
