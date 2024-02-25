@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there :raising_hand:
 
 <!--
 **Yuncodeinside/Yuncodeinside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:raising_hand:
 
-## Stacks
+
+## :computer: Stacks
 
 ### Language
 <div style="display: flex; justify-content: center;">
