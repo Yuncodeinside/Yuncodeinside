@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuncodeinside&layout=compact)](https://github.com/Yuncodeinside/github-readme-stats)
 
 ### Language
 <div style="display: flex; justify-content: center;">
