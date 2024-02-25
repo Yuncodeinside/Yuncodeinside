@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Language
 <div style="display: flex; justify-content: center;">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" style="margin: 5px;">
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 5px;">
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin: 5px;">
 </div>
